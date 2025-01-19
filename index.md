@@ -1,2 +1,4 @@
 こんにちは
-![ネコの画像](./cat.jpg)
+
+このホームページのソースコードは[こちら](https://github.com/hoiminweb/SamplePages/)
+
